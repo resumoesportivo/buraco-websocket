@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "postinstall": "npm ci"
+    "postinstall": "npm install && npm install ws"
   },
   "dependencies": {
     "ws": "^8.13.0"
