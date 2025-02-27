@@ -1,0 +1,12 @@
+{
+  "name": "buraco-websocket",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para o jogo de Buraco Fechado",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
