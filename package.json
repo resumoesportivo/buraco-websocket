@@ -5,12 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "postinstall": "npm install"
+    "postinstall": "npm ci"
   },
   "dependencies": {
-    "ws": "^8.13.0"
-  },
-  "engines": {
-    "node": ">=18.x"
-  }
-}
+    "ws":
