@@ -1,6 +1,5 @@
-"scripts": {
+{
   "name": "buraco-websocket",
-   "postinstall": "npm install"
   "version": "1.0.0",
   "description": "Servidor WebSocket para o jogo de Buraco Fechado",
   "main": "server.js",
